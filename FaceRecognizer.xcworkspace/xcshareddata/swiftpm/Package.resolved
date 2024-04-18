@@ -1,0 +1,86 @@
+{
+  "pins" : [
+    {
+      "identity" : "ditranquillity",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ivlevAstef/DITranquillity",
+      "state" : {
+        "revision" : "2ea85e5c157bdda71fd71dfa295e1a33a0da9ea4",
+        "version" : "4.5.2"
+      }
+    },
+    {
+      "identity" : "fora-ios-architecture",
+      "kind" : "remoteSourceControl",
+      "location" : "https://s2.git.fora-soft.com/forasoft/fora-ios-architecture",
+      "state" : {
+        "revision" : "b776d6431424ae2538d0aba054997c767eb570c3",
+        "version" : "1.0.3"
+      }
+    },
+    {
+      "identity" : "fora-ios-logger",
+      "kind" : "remoteSourceControl",
+      "location" : "https://s2.git.fora-soft.com/ios/fora-ios-logger.git",
+      "state" : {
+        "revision" : "1d8f6d7a89d656110eff94783cfded2ecb8ca8a2",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "fora-ios-transitions",
+      "kind" : "remoteSourceControl",
+      "location" : "https://s2.git.fora-soft.com/forasoft/fora-ios-transitions",
+      "state" : {
+        "revision" : "c4a1915571ceaaa21ee0473e0e619c1bb2abb833",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher",
+      "state" : {
+        "revision" : "5b92f029fab2cce44386d28588098b5be0824ef5",
+        "version" : "7.11.0"
+      }
+    },
+    {
+      "identity" : "rxswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ReactiveX/RxSwift",
+      "state" : {
+        "revision" : "9dcaa4b333db437b0fbfaf453fad29069044a8b4",
+        "version" : "6.6.0"
+      }
+    },
+    {
+      "identity" : "swift-case-paths",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pointfreeco/swift-case-paths",
+      "state" : {
+        "revision" : "fc45e7b2cfece9dd80b5a45e6469ffe67fe67984",
+        "version" : "0.14.1"
+      }
+    },
+    {
+      "identity" : "swiftlazy",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ivlevAstef/SwiftLazy.git",
+      "state" : {
+        "revision" : "49a47304bb06643fa22d981b6b8301acc5bcb366",
+        "version" : "1.2.0"
+      }
+    },
+    {
+      "identity" : "xctest-dynamic-overlay",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pointfreeco/xctest-dynamic-overlay",
+      "state" : {
+        "revision" : "50843cbb8551db836adec2290bb4bc6bac5c1865",
+        "version" : "0.9.0"
+      }
+    }
+  ],
+  "version" : 2
+}
